@@ -33,7 +33,7 @@ career-profile:
     title: Career Profile
     summary: |
       Sarah Gibson is an Open Source Infrastructure Engineer at 2i2c, and a contributor to and advocate of open software.
-      She holds more than 2 years of experience as a Research Engineer at a national institute for data science and artificial intelligence, as well as holding a core contributor role in a number of open source projects.
+      She holds more than two years of experience as a Research Engineer at a national institute for data science and artificial intelligence, as well as holding a core contributor role in a number of open source projects.
       Sarah is passionate about working with domain experts to leverage cloud computing in order to accelerate cutting-edge, data-intensive research and disseminating the results in an open, reproducible and reusable manner.
       She holds a Fellowship with the Software Sustainability Institute and advocates for best software practices in research.
 
@@ -94,15 +94,13 @@ projects:
         link: "https://mybinder.org"
         details: |
           I work as part of a team operating a public platform that serves
-          reproducible computational environments in the cloud to approximately
-          140k users per week around the world. I wrote a successful bid for a
-          $10k grant to deploy and maintain cloud infrastructure at the Turing
-          Institute which receives a part of this traffic. I chair the monthly
-          team meetings and onboard or mentor new contributors. I host workshops
-          on using mybinder.org or deploying a replica service, and speak about
-          Binder's community and role in the Open Science domain. At the Turing,
-          I am technical lead and maintainer of a private Binder service for the
-          Turing research community.
+          reproducible computational environments to a global community. I
+          wrote a successful bid for a $10k grant to deploy and maintain
+          cloud infrastructure at the Turing Institute which receives a part
+          of this traffic. I chair the monthly team meetings and onboard or
+          mentor new contributors. I host workshops on using mybinder.org or
+          deploying a replica service, and speak about Binder's community
+          and role in the Open Science domain.
 
       - title: The Turing Way
         link: "https://github.com/alan-turing-institute/the-turing-way"
@@ -157,7 +155,8 @@ professional-activities:
       company: <a href="https://openlifesci.org">Open Life Science</a>
       details: |
         This programme teaches open leadership skills for growing an open
-        project and community through experiential learning and mentorship.
+        project and community through experiential learning and mentorship
+        and I have successfully mentored projects through two cohorts.
 
 skills-competencies:
     - type: Technical
