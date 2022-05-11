@@ -17,17 +17,17 @@ sidebar:
     website: sgibson91.github.io/blog #do not add http://
     linkedin: drsarahlgibson
     github: sgibson91
-    twitter: '@drsarahlgibson'
+    twitter: drsarahlgibson
 
-    languages:
-      - idiom: English
-        level: Native
+    # languages:
+    #   - idiom: English
+    #     level: Native
 
-    interests:
-      - item: Cross Stitch
-        link: "https://sgibson91.github.io/cross-stitch-carpentry"
-      - item: Music
-        # link:
+    # interests:
+    #   - item: Cross Stitch
+    #     link: "https://sgibson91.github.io/cross-stitch-carpentry"
+    #   - item: Music
+    #     # link:
 
 career-profile:
     title: Career Profile
@@ -115,8 +115,16 @@ projects:
           where their topic best fits into the book.
 
 professional-activities:
+    - role: Jupyter Distinguished Contributor
+      time: 2022 Cohort
+      company: <a href="https://jupyter.org/">Project Jupyter</a>
+      details: |
+        In 2022, I was recognised as a
+        <a href="https://jupyter.org/governance/distinguished_contributors.html">Jupyter Distinguished Contributor</a>
+        for substantially contributing to the Jupyter project over a sustained period.
+
     - role: Carpentries Instructor
-      time: 2021 - ongiong
+      time: 2021 - ongoing
       company: <a href="https://carpentries.org/">The Carpentries</a>
       details: |
         I am actively volunteering as a Software Carpentry Instructor.
