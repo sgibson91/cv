@@ -19,15 +19,15 @@ sidebar:
     github: sgibson91
     twitter: drsarahlgibson
 
-    languages:
-      - idiom: English
-        level: Native
+    # languages:
+    #   - idiom: English
+    #     level: Native
 
-    interests:
-      - item: Cross Stitch
-        link: "https://sgibson91.github.io/cross-stitch-carpentry"
-      - item: Music
-        # link:
+    # interests:
+    #   - item: Cross Stitch
+    #     link: "https://sgibson91.github.io/cross-stitch-carpentry"
+    #   - item: Music
+    #     # link:
 
 career-profile:
     title: Career Profile
