@@ -1,0 +1,106 @@
+BasicInfo:
+  FirstName: Sarah
+  LastName: Gibson
+  Photo: img/profile.png
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: drsarahlgibson@gmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://sgibson91.github.io" target="_blank">sgibson91.github.io</a>
+    - Icon: fas fa-map-marker-alt
+      Info: UK
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/sgibson91" target="_blank">sgibson91</a>
+    - Icon: fab fa-linkedin-in
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/drsarahlgibson" target="_blank">drsarahlgibson</a>
+    - Icon: fab fa-orcid
+      Info: <a class="contact__link" href="https://orcid.org/0000-0003-0356-2765" target="_blank">0000-0003-0356-2765</a>
+
+Profile: >-
+  Sarah Gibson is an Open Source Infrastructure Engineer at 2i2c, and a
+  contributor to and advocate of open software. She holds more than two years of
+  experience as a Research Engineer at a national institute for data science and
+  artificial intelligence, as well as holding a core contributor role in a number
+  of open source projects. Sarah is passionate about working with domain experts
+  to leverage cloud computing in order to accelerate cutting-edge, data-intensive
+  research and disseminating the results in an open, reproducible and reusable
+  manner. She holds a Fellowship with the Software Sustainability Institute and
+  advocates for best software practices in research.
+
+Experience:
+  - Employer: <a href="https://2i2c.org">2i2c</a>
+    Place: Remote
+    Positions:
+      - Title: Open Source Infrastructure Engineer
+        Date: Jun 2021 - Present
+        Details: [] # TBA
+        Badges: 
+          - 'Python'
+          - 'Jupyter'
+          - 'Kubernetes'
+          - 'SRE'
+          - 'DevOps'
+          - 'Cloud'
+          - 'GCP'
+          - 'AWS'
+          - 'Azure'
+          - 'GitHub Actions'
+          - 'CI/CD'
+          - 'Docker'
+  - Employer: <a href="https://turing.ac.uk">The Alan Turing Institute</a>
+    Place: London, UK
+    Positions:
+      - Title: Research Software Engineer
+        Date: Nov 2018 - May 2021
+        Details:
+          - Collaborated with stakeholders throughout the Turing network on research projects linked to the <a href="https://www.turing.ac.uk/research/challenges">Turing Challenge Areas</a>
+          - Responsible for following best software practices throughout projects, implementing required computational infrastructure or automated pipelines, data wrangling and analysis, project documentation, project management, and reporting via papers, presentations or blog posts
+          - 'Noteable projects: <a href="https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science">The Turing Way</a> and <a href="https://www.turing.ac.uk/research/research-projects/living-machines">Living with Machines</a>'
+        Badges:
+          - 'Python'
+          - 'R'
+          - 'Jupyter'
+          - 'Kubernetes'
+          - 'Cloud'
+          - 'Azure'
+          - 'GitHub Actions'
+          - 'CI/CD'
+          - 'Docker'
+          - 'Ansible'
+
+Education:
+  - Course: Astrophysics Ph.D.
+    Place: University of Leicester
+    Details: <b>Thesis Title:</b> Understanding the Most Powerful Explosions in the Universe
+  - Course: MPhys Physics with Astrophysics
+    Place: University of Hull
+    Details: First Class with Honours
+
+Skills:
+  - Family: Technical
+    Items:
+      - Python
+      - Kubernetes
+      - Docker
+      - git
+      - GitHub
+      - Continuous Integration/Deployment
+      - testing
+  - Family: Interpersonal
+    Items:
+      - mentorship
+  - Family: Communication
+    Items:
+      - papers and research deliverables
+      - technical documentation
+      - community outreach and blogging
+  - Family: Community
+    Items:
+      - community management
+      - hosting collaborative community calls
+      - running and developing training workshops
+      - managing open source issues and pull requests
+
+Diplomas:
+  - '<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/OWeiqSTrQWy2od3P6GDQkA"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-OWeiqSTrQWy2od3P6GDQkA.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Scientific Community Engagement Fundamentals (CEF)</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>14 Nov 2022</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FOWeiqSTrQWy2od3P6GDQkA" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>'
+  - <a href="https://carpentries.org/become-instructor/" target="_blank">Carpentries Instructor Training</a> (June, 2021)
