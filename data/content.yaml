@@ -47,6 +47,12 @@ Experience:
           - 'GitHub Actions'
           - 'CI/CD'
           - 'Docker'
+          - 'terraform'
+          - 'monitoring/alerting'
+          - 'filesystem management'
+          - 'Prometheus'
+          - 'Grafana'
+          - 'Linux systems'
   - Employer: <a href="https://turing.ac.uk">The Alan Turing Institute</a>
     Place: London, UK
     Positions:
@@ -84,8 +90,15 @@ Skills:
       - Docker
       - git
       - GitHub
-      - Continuous Integration/Deployment
+      - continuous integration/deployment
       - testing
+      - terraform
+      - Google Cloud
+      - Azure
+      - AWS
+      - monitoring/alerting
+      - Linux
+      - filesystem management
   - Family: Interpersonal
     Items:
       - mentorship
