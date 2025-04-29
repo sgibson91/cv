@@ -35,7 +35,7 @@ Experience:
         Date: Jun 2021 - Present
         Details:
           - Deployed and managed complex systems of cloud-based architecture, including Kubernetes clusters and other cloud solutions, across AWS, Azure, and GCP
-          - Collaborated with stakeholders to determine system requirements and design in order to provide tailored user experiences from a set of product features
+          - Collaborated with stakeholders to determine system requirements and architecture in order to provide tailored user experiences from a set of product features
           - Scoped, developed, and launched new product features based on stakeholder user stories
           - Effective team member collaborating in a globally distributed, agile team
           - Responded to incidents and customer support requests as part of a highly available team
@@ -58,6 +58,13 @@ Experience:
           - 'Prometheus'
           - 'Grafana'
           - 'Linux systems'
+  - Employer: Software Sustainability Institute via the University of Edinburgh
+    Place: Remote
+    Positions:
+      - Title: Independent Consultancy
+        Date:
+        Details: Oct 2023 - Jun 2024
+          - Created and delivered lesson material around <a href="https://github.com/carpentries-incubator/fair-research-software">FAIR and reproducible software best practices</a> pertaining to version control and code readability
   - Employer: <a href="https://turing.ac.uk">The Alan Turing Institute</a>
     Place: London, UK
     Positions:
@@ -104,6 +111,7 @@ Skills:
       - monitoring/alerting
       - Linux
       - filesystem management
+      - AGILE workflows
   - Family: Interpersonal
     Items:
       - mentorship
