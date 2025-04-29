@@ -33,7 +33,12 @@ Experience:
     Positions:
       - Title: Open Source Infrastructure Engineer
         Date: Jun 2021 - Present
-        Details: [] # TBA
+        Details:
+          - Deployed and managed complex systems of cloud-based architecture, including Kubernetes clusters and other cloud solutions, across AWS, Azure, and GCP
+          - Collaborated with stakeholders to determine system requirements and design in order to provide tailored user experiences from a set of product features
+          - Scoped, developed, and launched new product features based on stakeholder user stories
+          - Effective team member collaborating in a globally distributed, agile team
+          - Responded to incidents and customer support requests as part of a highly available team
         Badges: 
           - 'Python'
           - 'Jupyter'
