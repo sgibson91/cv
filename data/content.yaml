@@ -62,9 +62,9 @@ Experience:
     Place: Remote
     Positions:
       - Title: Independent Consultancy
-        Date:
-        Details: Oct 2023 - Jun 2024
-          - Created and delivered lesson material around <a href="https://github.com/carpentries-incubator/fair-research-software">FAIR and reproducible software best practices</a> pertaining to version control and code readability
+        Date: Oct 2023 - Jun 2024
+        Details:
+          - Created and delivered lesson material on <a href="https://github.com/carpentries-incubator/fair-research-software">FAIR and reproducible software best practices</a> pertaining to version control and code readability
   - Employer: <a href="https://turing.ac.uk">The Alan Turing Institute</a>
     Place: London, UK
     Positions:
